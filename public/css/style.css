@@ -1,0 +1,114 @@
+.top-banner{
+    text-align: center;
+    background-color: yellow;
+    height: 50px;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.navbar{
+    background-color: black;
+    vertical-align: top;
+    border-left: 1px white;
+
+}
+
+.navbar a{
+    text-align: center;
+    font-size: 19px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;  
+    border-right: 1px solid white ;
+    height: 10px;
+    
+}
+.navbar :hover{
+    color: yellow;
+}
+.col-sm{
+    text-align: center;
+}
+.links a{
+    margin: 10px;
+}
+footer {
+    color: white;
+    bottom: 0;
+    position: relative;
+    background-color: black;
+    width: 100%;
+    padding: 50px;
+}
+.cus{
+    line-height: 0px;
+    color: white;
+    font-size: 12px;
+}
+a p{
+    color: white;
+}
+.about{
+    line-height: 0px;
+    color: white;
+    font-size: 12px;
+}
+.shop{
+    line-height: 0px;
+    color: white;
+    font-size: 12px;
+}
+
+.sub h6{
+    width: fit-content;
+}
+.sub{
+    line-height: 1px;
+    color: white;
+    font-size: 18px;
+    padding-left: 10px;
+    vertical-align: top;
+}
+#inputs{
+    display: block;
+    margin-top: 5px;
+    border: 100px red;
+}
+.sub button{
+    background-color: yellow;
+    margin-top: 10px;
+}
+
+.center img{
+    width: 100%;
+    
+}
+.center-inner img{
+    width: fit-content; 
+    text-align: center;
+}
+.center-inner{
+    padding-top: 20px;
+    padding-bottom: 50px;
+    width: 100%
+}
+
+.slider{
+    height: 40vh;
+    background-color: #eeeeef;
+}
+
+.slider h5{
+    padding-top: 10px;
+    color: black;
+    font-weight: bolder;
+}
+.gallery{
+    height: 40vh;
+    padding-top: 10px;
+    align-items: center;
+    display: inline-block;
+}
+
+
+
